@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Vignesh Maddur 👋</h1>
 
-<h3 align="center">Frontend Developer | Tech Enthusiast</h3>
+<h3 align="center">Full Stack Developer | Tech Enthusiast</h3>
 
 <p align="center">
   <a href="https://github.com/maddurvignesh">
@@ -12,10 +12,10 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on exciting frontend projects.
-- 🌱 I’m currently learning advanced JavaScript, UI/UX animations, and modern web frameworks.
+- 🔭 I’m currently working on exciting full stack projects.
+- 🌱 I’m currently learning advanced UI/UX animations, and modern web frameworks for both frontend and backend.
 - 👯 I’m looking to collaborate on Open Source projects and innovative web applications.
-- 💬 Ask me about **HTML, CSS, JavaScript, and Frontend Development**.
+- 💬 Ask me about **HTML, CSS, JavaScript, and Full Stack Development**.
 - ⚡ Fun fact: I love building clones of popular websites to reverse-engineer their UI/UX!
 
 ---
@@ -23,7 +23,7 @@
 ### 🛠️ Tech Stack & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,react,nodejs,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,react,nodejs,mongodb,express,git,github,vscode" />
 </p>
 
 ---
@@ -50,7 +50,7 @@ An interactive project showcasing scroll sequences and animations.
 
 ---
 
-### 📈 GitHub Stats
+### 📈 GitHub Stats & Contributions
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=maddurvignesh&show_icons=true&theme=tokyonight" alt="Vignesh's GitHub stats" width="48%" />
@@ -59,6 +59,14 @@ An interactive project showcasing scroll sequences and animations.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maddurvignesh&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maddurvignesh/maddurvignesh/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maddurvignesh/maddurvignesh/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/maddurvignesh/maddurvignesh/output/github-contribution-grid-snake.svg">
+  </picture>
 </p>
 
 ---
