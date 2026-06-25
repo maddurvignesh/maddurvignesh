@@ -1,50 +1,38 @@
-<h1 align="center">Hi there, I'm Vignesh Maddur 👋</h1>
-
-<h3 align="center">Full Stack Developer | Tech Enthusiast</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira%20Code&weight=600&size=28&duration=4000&pause=1000&color=0e75b6&center=true&vCenter=true&random=false&width=600&lines=Hey%20there!%20I'm%20Vignesh%20Maddur%20%F0%9F%91%8B;Full%20Stack%20Developer%20%F0%9F%9A%80;Open%20Source%20Enthusiast%20%E2%9C%A8" alt="Typing SVG" />
+</h1>
 
 <p align="center">
-  <a href="https://github.com/maddurvignesh">
-    <img src="https://komarev.com/ghpvc/?username=maddurvignesh&label=Profile%20views&color=0e75b6&style=flat" alt="maddurvignesh" />
-  </a>
+  <a href="https://github.com/maddurvignesh"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <img src="https://komarev.com/ghpvc/?username=maddurvignesh&style=for-the-badge&color=0e75b6" alt="Profile Views"/>
 </p>
 
 ---
 
-### 👨‍💻 About Me
+### 🧑‍💻 About Me
 
-- 🔭 I’m currently working on exciting full stack projects.
-- 🌱 I’m currently learning advanced UI/UX animations, and modern web frameworks for both frontend and backend.
-- 👯 I’m looking to collaborate on Open Source projects and innovative web applications.
-- 💬 Ask me about **HTML, CSS, JavaScript, and Full Stack Development**.
-- ⚡ Fun fact: I love building clones of popular websites to reverse-engineer their UI/UX!
+- 🔭 I’m currently working on exciting **Full Stack Projects**
+- 🌱 I’m currently learning advanced UI/UX animations and modern web frameworks
+- 👯 I’m looking to collaborate on **Open Source** projects and innovative web applications
+- 💡 I love building clones of popular websites to reverse-engineer their UI/UX!
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,react,nodejs,mongodb,express,git,github,vscode" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,react,nodejs,mongodb,express,git,github,vscode&perline=12" alt="Tech Stack" />
 </p>
 
 ---
 
-### 🚀 Featured Projects
+### 🔥 Featured Projects
 
-Here are some of the projects I've built:
-
-#### 🎨 [AirDrawer](https://github.com/maddurvignesh/Airdrawer-)
-An AI-powered web application that allows users to draw in the air using hand gestures captured through a webcam. 
-- **Tech Stack:** HTML, CSS, JavaScript, Tailwind CSS, MediaPipe Hands
-- **Features:** Real-time hand tracking, gesture-to-drawing conversion.
-
-#### 🍿 [Netflix Clone](https://github.com/maddurvignesh/NETFLIX-CLONE)
-A pixel-perfect Netflix Clone featuring a modern UI, movie thumbnails, and dynamic layouts.
-- **Tech Stack:** HTML, CSS, JavaScript
-- **Features:** Hover effects, responsive design, sleek user interface.
-
-#### 🛹 [Skateboard Sequence](https://github.com/maddurvignesh/skateboard.sequence)
-An interactive project showcasing scroll sequences and animations.
-- **Tech Stack:** JavaScript, HTML, CSS
+| Project | Description | Tech |
+|---------|-------------|------|
+| [🎨 AirDrawer](https://github.com/maddurvignesh/Airdrawer-) | An AI-powered web app to draw in the air using hand gestures | HTML, CSS, JS, Tailwind, MediaPipe |
+| [🍿 Netflix Clone](https://github.com/maddurvignesh/NETFLIX-CLONE) | A pixel-perfect Netflix Clone featuring a modern UI and dynamic layouts | HTML, CSS, JS |
+| [🛹 Skateboard Sequence](https://github.com/maddurvignesh/skateboard.sequence) | An interactive project showcasing scroll sequences and animations | HTML, CSS, JS |
 
 *(And many more projects like Amazon Clone, Lamborghini, Katana, etc.)*
 
