@@ -30,11 +30,13 @@
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [🎨 AirDrawer](https://github.com/maddurvignesh/Airdrawer-) | An AI-powered web app to draw in the air using hand gestures | HTML, CSS, JS, Tailwind, MediaPipe |
-| [🍿 Netflix Clone](https://github.com/maddurvignesh/NETFLIX-CLONE) | A pixel-perfect Netflix Clone featuring a modern UI and dynamic layouts | HTML, CSS, JS |
-| [🛹 Skateboard Sequence](https://github.com/maddurvignesh/skateboard.sequence) | An interactive project showcasing scroll sequences and animations | HTML, CSS, JS |
-
-*(And many more projects like Amazon Clone, Lamborghini, Katana, etc.)*
+| [🎨 AirDrawer](https://github.com/maddurvignesh/Airdrawer-) | An AI-powered web app to draw in the air using hand gestures | JavaScript, HTML, CSS |
+| [🍿 Netflix Clone](https://github.com/maddurvignesh/NETFLIX-CLONE) | A pixel-perfect Netflix Clone featuring a modern UI and dynamic layouts | JavaScript, HTML, CSS |
+| [🛹 Skateboard Sequence](https://github.com/maddurvignesh/skateboard.sequence) | An interactive project showcasing scroll sequences and animations | JavaScript |
+| [🛒 Amazon Clone](https://github.com/maddurvignesh/amazon) | E-commerce website clone | JavaScript |
+| [🐆 Cheethaaa](https://github.com/maddurvignesh/Cheethaaa) | Interactive web project | HTML |
+| [⚔️ Katana](https://github.com/maddurvignesh/katana) | Themed web project | HTML |
+| [🏎️ Lamborghini](https://github.com/maddurvignesh/Lamborghini) | Automotive themed web project | HTML |
 
 ---
 
