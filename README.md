@@ -1,6 +1,3 @@
-Here is the complete code. You can use the copy button on the top right of the code block below, and then paste it directly into your GitHub editor:
-
-```markdown
 <h1 align="center">Hi there, I'm Vignesh Maddur 👋</h1>
 
 <h3 align="center">Frontend Developer | Tech Enthusiast</h3>
@@ -72,4 +69,3 @@ An interactive project showcasing scroll sequences and animations.
   <a href="https://linkedin.com/in/maddurvignesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maddurvignesh" height="30" width="40" /></a>
   <a href="https://twitter.com/maddurvignesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="maddurvignesh" height="30" width="40" /></a>
 </p>
-```
