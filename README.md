@@ -30,6 +30,7 @@
 
 | Project | Description | Tech |
 |---------|-------------|------|
+| [🛒 ShopEase](https://e-commerce-website-1-51gk.onrender.com/) | E-commerce store with cart, checkout & auth — [repo](https://github.com/maddurvignesh/E-commerce-website) | Django, Python, SQLite |
 | [🎨 AirDrawer](https://github.com/maddurvignesh/Airdrawer-) | An AI-powered web app to draw in the air using hand gestures | JavaScript, HTML, CSS |
 | [🍿 Netflix Clone](https://github.com/maddurvignesh/NETFLIX-CLONE) | A pixel-perfect Netflix Clone featuring a modern UI and dynamic layouts | JavaScript, HTML, CSS |
 | [🛹 Skateboard Sequence](https://github.com/maddurvignesh/skateboard.sequence) | An interactive project showcasing scroll sequences and animations | JavaScript |
