@@ -2,7 +2,7 @@
 
 <!-- ═══════════════════ RED DEADPOOL BANNER ═══════════════════ -->
 
-<img src="https://raw.githubusercontent.com/maddurvignesh/maddurvignesh/main/deadpool.gif" width="200" alt="Deadpool" />
+<img src="https://media.giphy.com/media/Q7ozWVZwERqR1aQrv2/giphy.gif" width="200" alt="Deadpool" />
 
 # 🔴 **MADDUR VIGNESH** 🔴
 
