@@ -2,20 +2,14 @@
 
 <!-- ═══════════════════ RED DEADPOOL BANNER ═══════════════════ -->
 
-<img src="https://media.giphy.com/media/Q7ozWVZwERqR1aQrv2/giphy.gif" width="200" alt="Deadpool" />
-
-# 🔴 **MADDUR VIGNESH** 🔴
-
-### *"The Merc With A Dev Stack"*
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B0000,50:B22222,100:FF0000&height=40&section=header&text=Full+Stack+Developer+%E2%9A%94%EF%B8%8F+|%+AI+%26+ML+Enthusiast+%F0%9F%A4%A0+|%+Maximum+Effort+%E2%9A%A1&fontSize=16&fontColor=ffffff&fontAlignY=50" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,30:B22222,60:DC143C,100:FF0000&height=200&section=header&text=MADDUR+VIGNESH&fontSize=60&fontColor=ffffff&fontAlignY=40&desc=THE+MERC+WITH+A+DEV+STACK&descSize=18&descAlignY=60&animation=fadeIn&icon=deadpool&iconColor=ffffff&iconSize=100" width="100%" />
 
 <br/>
 
-<a href="https://linkedin.com/in/maddurvignesh"><img src="https://img.shields.io/badge/LinkedIn-FF0000?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=8B0000" /></a>
-<a href="https://github.com/maddurvignesh"><img src="https://img.shields.io/badge/GitHub-FF0000?style=for-the-badge&logo=github&logoColor=white&labelColor=8B0000" /></a>
-<a href="mailto:maddurvignesh@gmail.com"><img src="https://img.shields.io/badge/Email-FF0000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=8B0000" /></a>
-<a href="https://twitter.com/maddurvignesh"><img src="https://img.shields.io/badge/Twitter-FF0000?style=for-the-badge&logo=x&logoColor=white&labelColor=8B0000" /></a>
+<a href="https://linkedin.com/in/maddurvignesh"><img src="https://img.shields.io/badge/LinkedIn-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=FF0000&labelColor=8B0000" /></a>
+<a href="https://github.com/maddurvignesh"><img src="https://img.shields.io/badge/GitHub-FFFFFF?style=for-the-badge&logo=github&logoColor=FF0000&labelColor=8B0000" /></a>
+<a href="mailto:maddurvignesh@gmail.com"><img src="https://img.shields.io/badge/Email-FFFFFF?style=for-the-badge&logo=gmail&logoColor=FF0000&labelColor=8B0000" /></a>
+<a href="https://twitter.com/maddurvignesh"><img src="https://img.shields.io/badge/Twitter-FFFFFF?style=for-the-badge&logo=x&logoColor=FF0000&labelColor=8B0000" /></a>
 <img src="https://komarev.com/ghpvc/?username=maddurvignesh&color=FF0000&style=for-the-badge&label=VISITORS" alt="Profile Views" />
 
 </div>
