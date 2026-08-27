@@ -1,22 +1,56 @@
 <div align="center">
 
-<!-- ═══════════════════ DEADPOOL — COMPACT HEADER ═══════════════════ -->
+<!-- ═══════════════════ DEADPOOL — MIND-BENDING HEADER ═══════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:8B0000,100:FF0000&height=150&section=header&text=MADDUR+VIGNESH&fontSize=60&fontColor=ffffff&fontAlignY=42&desc=THE+MERC+WITH+A+DEV+STACK&descSize=16&descAlignY=62&animation=fadeIn&icon=deadpool&iconColor=FF0000&iconSize=80" width="100%" />
+```
+ ██████████████████████████████████████████████████████████████████████████████
+ ███╗   ███╗ █████╗ ███████╗████████╗ ██████╗ ███╗   ███╗███████╗██████╗     ████
+ ████╗ ████║██╔══██╗██╔════╝╚══██╔══╝██╔═══██╗████╗ ████║██╔════╝██╔══██╗   ████
+ ██╔████╔██║███████║███████╗   ██║   ██║   ██║██╔████╔██║█████╗  ██████╔╝   ████
+ ██║╚██╔╝██║██╔══██║╚════██║   ██║   ██║   ██║██║╚██╔╝██║██╔══╝  ██╔══██╗   ████
+ ██║ ╚═╝ ██║██║  ██║███████║   ██║   ╚██████╔╝██║ ╚═╝ ██║███████╗██║  ██║   ████
+ ╚═╝     ╚═╝╚═╝  ╚═╝╚══════╝   ╚═╝    ╚═════╝ ╚═╝     ╚═╝╚══════╝╚═╝  ╚═╝   ████
+ ██████████████████████████████████████████████████████████████████████████████████
+```
+
+# 🔴 **MADDUR VIGNESH** 🔴
+
+```
+  ═══════════════════════════════════════════════════════════════════════════════
+   💀  "Maximum Effort... Minimum Sleep... Zero Bugs in Production (lies)."  💀
+  ═══════════════════════════════════════════════════════════════════════════════
+```
+
+```
+   ████████████████████████████████████████████████████████████████████████████
+   █  ⚠️  CLASSIFIED // DEADPOOL HQ // EYES ONLY  ⚠️                          █
+   █  ───────────────────────────────────────────────────────────────────────  █
+   █  SUBJECT    : MADDUR VIGNESH                                              █
+   █  CODENAME   : "THE MERC WITH A DEV STACK"                                 █
+   █  THREAT_LVL : ████████████████████████ MAXIMUM (OVER 9000!)               █
+   █  STATUS     : 🔴 ACTIVE — DEPLOYING CHAOS SINCE DAY ONE                   █
+   ████████████████████████████████████████████████████████████████████████████
+```
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=2200&pause=600&color=FF0000&center=true&vCenter=true&width=600&height=70&lines=%F0%9F%94%B1+Full+Stack+Developer+%F0%9F%92%BB%EF%B8%8F;+%F0%9F%94%B1+AI+%26+ML+Enthusiast+%F0%9F%A4%A0;+%F0%9F%94%B1+Breaking+The+4th+Wall+%F0%9F%96%A5%EF%B8%8F;+%F0%9F%94%B1+Maximum+Effort+%F0%9F%94%A5" alt="Typing SVG" />
 
 <br/>
 
-### 🔴 *"Maximum Effort... Minimum Sleep... Zero Bugs in Production (lies)."* 🔴
+<table>
+<tr>
+<td align="center"><a href="https://linkedin.com/in/maddurvignesh"><img src="https://img.shields.io/badge/LinkedIn-Maddur%20Vignesh-FF0000?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=8B0000&animation=shake" /></a></td>
+<td align="center"><img src="https://komarev.com/ghpvc/?username=maddurvignesh&color=FF0000&style=for-the-badge&label=🔴+VISITORS+WHO+DARED" /></td>
+<td align="center"><a href="https://github.com/maddurvignesh"><img src="https://img.shields.io/badge/GitHub-maddurvignesh-FF0000?style=for-the-badge&logo=github&logoColor=white&labelColor=8B0000&animation=shake" /></a></td>
+<td align="center"><a href="mailto:maddurvignesh@gmail.com"><img src="https://img.shields.io/badge/Email-SAY+HI!-FF0000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=8B0000&animation=shake" /></a></td>
+<td align="center"><a href="https://twitter.com/maddurvignesh"><img src="https://img.shields.io/badge/Twitter-@maddurvignesh-FF0000?style=for-the-badge&logo=x&logoColor=white&labelColor=8B0000&animation=shake" /></a></td>
+</tr>
+</table>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=700&color=FF0000&center=true&vCenter=true&width=500&height=55&lines=Full+Stack+Developer+%F0%9F%92%BB;AI+%26+ML+Enthusiast+%F0%9F%A4%A0;Deploying+Chaos+Since+Day+One+%F0%9F%94%A5" alt="Typing SVG" />
-
-<br/>
-
-<a href="https://linkedin.com/in/maddurvignesh"><img src="https://img.shields.io/badge/LinkedIn-FF0000?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=8B0000" /></a>
-<a href="https://github.com/maddurvignesh"><img src="https://img.shields.io/badge/GitHub-FF0000?style=for-the-badge&logo=github&logoColor=white&labelColor=8B0000" /></a>
-<a href="mailto:maddurvignesh@gmail.com"><img src="https://img.shields.io/badge/Email-FF0000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=8B0000" /></a>
-<a href="https://twitter.com/maddurvignesh"><img src="https://img.shields.io/badge/Twitter-FF0000?style=for-the-badge&logo=x&logoColor=white&labelColor=8B0000" /></a>
-<img src="https://komarev.com/ghpvc/?username=maddurvignesh&color=FF0000&style=flat-square&label=VISITORS" alt="Profile Views" />
+```
+  ╔══════════════════════════════════════════════════════════════════════════════╗
+  ║  💥 POW! 💥 BAM! 💥 WHAM! 💥  You've entered the profile of a LEGEND.  💥  ║
+  ╚══════════════════════════════════════════════════════════════════════════════╝
+```
 
 </div>
 
