@@ -1,102 +1,45 @@
 <div align="center">
 
-<!-- ═══════════════════ DEADPOOL MAXIMUM EFFORT HEADER ═══════════════════ -->
+<!-- ═══════════════════ DEADPOOL — CLEAN & MIND-BLOWING ═══════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,20:1a0000,40:4a0000,60:8B0000,80:CC0000,100:FF0000&height=280&section=header&text=&fontSize=1&fontColor=ffffff&animation=fadeIn" width="100%" />
-
-```
-  ██████╗  █████╗ ██████╗ ███████╗    ██████╗ ███████╗ ██████╗ █████╗ ██████╗ ███████╗
-  ██╔══██╗██╔══██╗██╔══██╗██╔════╝    ██╔══██╗██╔════╝██╔════╝██╔══██╗██╔══██╗██╔════╝
-  ██║  ██║███████║██████╔╝█████╗      ██║  ██║█████╗  ██║     ███████║██████╔╝█████╗  
-  ██║  ██║██╔══██║██╔═══╝ ██╔══╝      ██║  ██║██╔══╝  ██║     ██╔══██║██╔═══╝ ██╔══╝  
-  ██████╔╝██║  ██║██║     ███████╗    ██████╔╝███████╗╚██████╗██║  ██║██║     ███████╗
-  ╚═════╝ ╚═╝  ╚═╝╚═╝     ╚══════╝    ╚═════╝ ╚══════╝ ╚═════╝╚═╝  ╚═╝╚═╝     ╚══════╝
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:8B0000,100:FF0000&height=200&section=header&text=MADDUR+VIGNESH&fontSize=70&fontColor=ffffff&fontAlignY=40&desc=THE+MERC+WITH+A+DEV+STACK&descSize=20&descAlignY=65&animation=fadeIn&icon=deadpool&iconColor=FF0000&iconSize=90" width="100%" />
 
 <br/>
 
 ```
-  ╔══════════════════════════════════════════════════════════════════════════════════════╗
-  ║                                                                                      ║
-  ║   🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴   ║
-  ║   🔴                                                                 🔴   ║
-  ║   🔴    ⚠️  CLASSIFIED // TOP SECRET // EYES ONLY // DEADPOOL HQ  ⚠️   🔴   ║
-  ║   🔴                                                                 🔴   ║
-  ║   🔴    SUBJECT    : MADDUR VIGNESH                                  🔴   ║
-  ║   🔴    CODENAME   : "THE MERC WITH A DEV STACK"                     🔴   ║
-  ║   🔴    THREAT_LVL : ████████████████████ MAXIMUM (OVER 9000!)       🔴   ║
-  ║   🔴    STATUS     : 🔴 ACTIVE — DEPLOYING CHAOS SINCE DAY ONE       🔴   ║
-  ║   🔴    CLEARANCE  : DEADPOOL LEVEL (DO NOT QUESTION)                🔴   ║
-  ║   🔴                                                                 🔴   ║
-  ║   🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴🔴   ║
-  ║                                                                                      ║
-  ╚══════════════════════════════════════════════════════════════════════════════════════╝
+    ╔══════════════════════════════════════════════════════════════════════╗
+    ║                                                                      ║
+    ║   ██████╗ ███████╗██╗   ██╗    ██████╗ ██╗   ██╗███████╗            ║
+    ║   ██╔══██╗██╔════╝██║   ██║    ██╔══██╗██║   ██║██╔════╝            ║
+    ║   ██║  ██║█████╗  ██║   ██║    ██║  ██║██║   ██║███████╗            ║
+    ║   ██║  ██║██╔══╝  ╚██╗ ██╔╝    ██║  ██║██║   ██║╚════██║            ║
+    ║   ██████╔╝███████╗ ╚████╔╝     ██████╔╝╚██████╔╝███████║            ║
+    ║   ╚═════╝ ╚══════╝  ╚═══╝      ╚═════╝  ╚═════╝ ╚══════╝            ║
+    ║                                                                      ║
+    ║          🔴 VIGNESH ● Full Stack Developer ● AI Explorer 🔴          ║
+    ║                                                                      ║
+    ╚══════════════════════════════════════════════════════════════════════╝
 ```
 
 <br/>
 
-# 🔴 **MADDUR VIGNESH** 🔴
+> ### 🔴 *"Maximum Effort... Minimum Sleep... Zero Bugs in Production (lies)."* 🔴
 
 <br/>
 
-```
-  ╔══════════════════════════════════════════════════════════════════════════════════════╗
-  ║                                                                                      ║
-  ║     💀 "Maximum Effort... Minimum Sleep... Zero Bugs in Production (LIES)." 💀       ║
-  ║                                                                                      ║
-  ║     🎭 "I'm not a hero. I'm the guy who force-pushes to main." 🎭                  ║
-  ║                                                                                      ║
-  ╚══════════════════════════════════════════════════════════════════════════════════════╝
-```
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=2500&pause=700&color=FF0000&center=true&vCenter=true&width=600&height=70&lines=Full+Stack+Developer+%F0%9F%92%BB;AI+%26+ML+Enthusiast+%F0%9F%A4%A0;Breaking+The+4th+Wall+Of+Code+%F0%9F%96%A5%EF%B8%8F;Deploying+Chaos+Since+Day+One+%F0%9F%94%A5" alt="Typing SVG" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2000&pause=600&color=FF0000&center=true&vCenter=true&width=700&height=100&lines=%F0%9F%94%B1+Full+Stack+Developer+%F0%9F%92%BB%EF%B8%8F;+%F0%9F%94%B1+AI+%26+ML+Enthusiast+%F0%9F%A4%A0;+%F0%9F%94%B1+Breaking+The+4th+Wall+Of+Code+%F0%9F%96%A5%EF%B8%8F;+%F0%9F%94%B1+Deploying+Chaos+Since+Day+One+%F0%9F%94%A5;+%F0%9F%94%B1+The+Merc+With+A+Dev+Stack+%F0%9F%98%8E" alt="Typing SVG" />
-
-<br/>
-
-```
-  ╭──────────────────────────────────────────────────────────────────────────────────────╮
-  │                                                                                      │
-  │    ⚡⚡⚡  WARNING: THIS PROFILE MAY CAUSE:  ⚡⚡⚡                                    │
-  │                                                                                      │
-  │    💀 IMPRESSIVENESS OVERLOAD       💀 EXISTENCE OF YOUR OWN PROFILE IN QUESTION     │
-  │    💀 UNCONTROLLABLE "WOW"          💀 IMMEDIATE DESIRE TO HIRE THIS DEV            │
-  │    💀 JAW DROPPING                  💀 SCREEN TEARS FROM SHEER AWESOMENESS           │
-  │                                                                                      │
-  │    ⚠️  PROCEED AT YOUR OWN RISK — DEADPOOL IS NOT RESPONSIBLE FOR DAMAGES  ⚠️       │
-  │                                                                                      │
-  ╰──────────────────────────────────────────────────────────────────────────────────────╯
-```
-
-<br/>
-
-<a href="https://linkedin.com/in/maddurvignesh"><img src="https://img.shields.io/badge/⚡LINKEDIN-Maddur%20Vignesh-FF0000?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=8B0000&animation=bounce" /></a>
-<a href="https://github.com/maddurvignesh"><img src="https://img.shields.io/badge/💀GITHUB-maddurvignesh-FF0000?style=for-the-badge&logo=github&logoColor=white&labelColor=8B0000&animation=bounce" /></a>
-<a href="mailto:maddurvignesh@gmail.com"><img src="https://img.shields.io/badge/🔥EMAIL-SAY+HI!-FF0000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=8B0000&animation=bounce" /></a>
-<a href="https://twitter.com/maddurvignesh"><img src="https://img.shields.io/badge/⚡TWITTER-@maddurvignesh-FF0000?style=for-the-badge&logo=x&logoColor=white&labelColor=8B0000&animation=bounce" /></a>
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=maddurvignesh&color=FF0000&style=for-the-badge&label=🔴+VISITORS+WHO+DARED+TO+ENTER&logo=deadpool&logoColor=white" alt="Profile Views" />
-
-<br/>
-
-```
-  ╔══════════════════════════════════════════════════════════════════════════════════════╗
-  ║                                                                                      ║
-  ║     💥 POW! 💥 BAM! 💥 WHAM! 💥                                                     ║
-  ║                                                                                      ║
-  ║     You've entered the GitHub profile of a LEGEND.                                   ║
-  ║     You've scrolled too far to turn back now.                                        ║
-  ║     There is no escape. There is only... MADDUR VIGNESH.                             ║
-  ║                                                                                      ║
-  ║     🎭 "I don't always read README files...                                          ║
-  ║          but when I do, I prefer this one."                                          ║
-  ║                                                  — The Most Interesting Dev           ║
-  ║                                                                                      ║
-  ╚══════════════════════════════════════════════════════════════════════════════════════╝
-```
+<table>
+<tr>
+<td align="center"><a href="https://linkedin.com/in/maddurvignesh"><img src="https://img.shields.io/badge/LinkedIn-Maddur%20Vignesh-FF0000?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=8B0000" /></a></td>
+<td align="center"><img src="https://komarev.com/ghpvc/?username=maddurvignesh&color=FF0000&style=for-the-badge&label=PROFILE+VISITORS" alt="Profile Views" /></td>
+<td align="center"><a href="https://github.com/maddurvignesh"><img src="https://img.shields.io/badge/GitHub-maddurvignesh-FF0000?style=for-the-badge&logo=github&logoColor=white&labelColor=8B0000" /></a></td>
+<td align="center"><a href="mailto:maddurvignesh@gmail.com"><img src="https://img.shields.io/badge/Email-Me!-FF0000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=8B0000" /></a></td>
+<td align="center"><a href="https://twitter.com/maddurvignesh"><img src="https://img.shields.io/badge/Twitter-@maddurvignesh-FF0000?style=for-the-badge&logo=x&logoColor=white&labelColor=8B0000" /></a></td>
+</tr>
+</table>
 
 </div>
 
@@ -104,31 +47,21 @@
 
 <div align="center">
 
-## 💀 **DEADPOOL'S WELCOME MESSAGE** 💀
-
 ```
-  ╭──────────────────────────────────────────────────────────────────────────────────────╮
-  │                                                                                      │
-  │         🎭🎭🎭🎭🎭🎭🎭🎭🎭🎭🎭🎭🎭🎭🎭🎭🎭🎭🎭🎭🎭🎭🎭🎭🎭🎭🎭🎭🎭🎭🎭🎭🎭🎭🎭            │
-  │                                                                                      │
-  │            "Hey... yeah, YOU. The one reading this right now.                        │
-  │             You scrolled all the way down here?                                      │
-  │             That's commitment. That's dedication.                                    │
-  │             That's... kinda creepy actually.                                         │
-  │                                                                                      │
-  │             But hey, since you're here...                                            │
-  │                                                                                      │
-  │             Want to see some code magic? 🪄                                          │
-  │             Want to see a dev who codes like Deadpool fights?                         │
-  │             Want to see a README that's better than YOURS?                            │
-  │                                                                                      │
-  │             ...too far? My bad. 😅"                                                  │
-  │                                                                                      │
-  │                                      — Maddur Vignesh (definitely)                   │
-  │                                                                                      │
-  │         🎭🎭🎭🎭🎭🎭🎭🎭🎭🎭🎭🎭🎭🎭🎭🎭🎭🎭🎭🎭🎭🎭🎭🎭🎭🎭🎭🎭🎭🎭🎭🎭🎭🎭🎭            │
-  │                                                                                      │
-  ╰──────────────────────────────────────────────────────────────────────────────────────╯
+  ═══════════════════════════════════════════════════════════════════════
+  
+       ⚠️   W A R N I N G   ⚠️
+  
+       This profile contains:
+       
+       • Maximum levels of code wizardry 🧙‍♂️
+       • Excessive amounts of caffeine-fueled commits ☕
+       • A developer who codes like Deadpool fights 💀
+       • README so good it should be illegal 🚔
+       
+       You have been warned. Proceed at your own risk.
+  
+  ═══════════════════════════════════════════════════════════════════════
 ```
 
 </div>
