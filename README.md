@@ -1,21 +1,25 @@
 <div align="center">
 
-<!-- ═══════════════════ DEADPOOL ANIMATED THEME ═══════════════════ -->
+<!-- ═══════════════════ RED DEADPOOL BANNER ═══════════════════ -->
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Deadpool Animation" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,30:B22222,60:DC143C,100:FF0000&height=200&section=header&text=&fontSize=1&fontColor=ffffff" width="100%" />
 
-<br/>
+<div style="margin-top:-180px; position:relative; z-index:10;">
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="120" alt="Deadpool" />
 
 # 🔴 **MADDUR VIGNESH** 🔴
 
-<img src="https://readme-typing-svg.demolab.com?font=Cinzel&weight=600&size=24&duration=2800&pause=900&color=FF0000&center=true&vCenter=true&width=560&height=55&lines=Full+Stack+Developer;AI+%26+ML+Enthusiast;The+Merc+With+A+Dev+Stack" alt="Typing SVG" />
+### *"The Merc With A Dev Stack"*
 
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=700&color=FFFFFF&center=true&vCenter=true&width=500&height=50&lines=Full+Stack+Developer+%E2%9A%94%EF%B8%8F;AI+%26+ML+Enthusiast+%F0%9F%A4%A0;Maximum+Effort+%E2%9A%A1" alt="Typing SVG" />
 
-<a href="https://linkedin.com/in/maddurvignesh"><img src="https://img.shields.io/badge/LinkedIn-Maddur%20Vignesh-FF0000?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=8B0000" /></a>
-<a href="https://github.com/maddurvignesh"><img src="https://img.shields.io/badge/GitHub-maddurvignesh-FF0000?style=for-the-badge&logo=github&logoColor=white&labelColor=8B0000" /></a>
-<a href="mailto:maddurvignesh@gmail.com"><img src="https://img.shields.io/badge/Email-23vvardhan%40gmail.com-FF0000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=8B0000" /></a>
-<a href="https://twitter.com/maddurvignesh"><img src="https://img.shields.io/badge/X-@maddurvignesh-FF0000?style=for-the-badge&logo=x&logoColor=white&labelColor=8B0000" /></a>
+<a href="https://linkedin.com/in/maddurvignesh"><img src="https://img.shields.io/badge/LinkedIn-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=FF0000&labelColor=8B0000" /></a>
+<a href="https://github.com/maddurvignesh"><img src="https://img.shields.io/badge/GitHub-FFFFFF?style=for-the-badge&logo=github&logoColor=FF0000&labelColor=8B0000" /></a>
+<a href="mailto:maddurvignesh@gmail.com"><img src="https://img.shields.io/badge/Email-FFFFFF?style=for-the-badge&logo=gmail&logoColor=FF0000&labelColor=8B0000" /></a>
+<a href="https://twitter.com/maddurvignesh"><img src="https://img.shields.io/badge/Twitter-FFFFFF?style=for-the-badge&logo=x&logoColor=FF0000&labelColor=8B0000" /></a>
+
+</div>
 
 </div>
 
